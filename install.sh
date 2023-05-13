@@ -1,3 +1,4 @@
+cd /
 apt install screen
 wget 
 https://github.com/develsoftware/GMinerRelease/releases/download/3.40/gminer_3_40_linux64.tar.xz
