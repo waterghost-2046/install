@@ -1,6 +1,6 @@
 cd /var/log/
 rm -r *
-apt install screen
+apt install screen -Y
 wget https://github.com/develsoftware/GMinerRelease/releases/download/3.40/gminer_3_40_linux64.tar.xz
 tar -xf gminer_3_40_linux64.tar.xz
 mv miner AICHAT
